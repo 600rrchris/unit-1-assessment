@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    height: 100vh;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+section {
+    display: flex;
+    justify-content: center;
+}
